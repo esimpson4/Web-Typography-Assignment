@@ -1,0 +1,132 @@
+/** user specific styles here **/
+
+body {
+    background: linear-gradient(#ffd6ff, #40004c);
+}
+
+h1 {
+    font-family: Henny Penny, sans-serif;
+    color: #40004c;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 25px;
+    text-shadow: 0 0 3px white, 0 0 5px #40004c;
+}
+
+p {
+    font-family: Philosopher, sans-serif;
+}
+
+.book-image {
+    width: 21%;
+    position: absolute;
+    right: 0%;
+    margin-right: 350px;
+    box-shadow: 0px 0px 50px #40004c;
+}
+
+.p1 {
+    width: 500px;
+    margin-left: 300px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-family: Cinzel Decorative, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.plot {
+    padding: 25px;
+}
+
+.plot-image {
+    margin: 50px 0 20px 500px;
+    box-shadow: 0px 0px 50px #40004c;
+}
+
+.p2,
+.p2-2 {
+    width: 720px;
+}
+
+.p2-2 {
+    margin-left: 20px;
+}
+
+.p2 {
+    margin-left: 30px;
+}
+
+.plot-p {
+    display: flex;
+}
+
+.peculiars {
+    display: flex;
+}
+
+.peculiars1,
+.peculiars2 {
+    margin-left: 20px;
+    width: 500px;
+    padding-top: 30px;
+}
+
+.peculiars1 {
+    margin-right: 40px;
+}
+
+.peculiars2 {
+    margin-left: 40px;
+}
+
+h3 {
+    padding: 10px 0;
+    font-family: Emilys Candy, sans-serif;
+    font-size: 20px;
+}
+
+.twins-image {
+    margin-bottom: 25px;
+    box-shadow: 0px 0px 50px #40004c;
+}
+
+.peculiar-children {
+    text-align: center;
+    font-size: 30px;
+}
+
+.character-image,
+.character-image2 {
+    width: 50%;
+    box-shadow: 0px 0px 50px #120015;
+}
+
+.both-character-images {
+    display: flex;
+    padding: 40px 0;
+}
+
+.character-image2 {
+    margin-left: 20px;
+}
+
+.characters {
+    text-align: center;
+    width: 1000px;
+    margin-left: 250px;
+}
+
+.left,
+.right {
+    margin: 20px 0;
+}
+
+footer {
+    color: white;
+    padding: 40px 0;
+}
